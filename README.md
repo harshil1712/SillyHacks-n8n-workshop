@@ -26,7 +26,7 @@ We will build a workflow that will calculate the time we spend in our online cla
 
 - Google Calendar credentials. Follow the [documentation](https://docs.n8n.io/credentials/google/#google) to learn how to get the credentials.
 	> **NOTE:** Make sure to enable the Google Calendar API in the Google Cloud Console.
-- Create an account on [Twilio](www.twilio.com/referral/7LQNh3) and [get a trial number](https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account#get-your-first-twilio-phone-number)
+- Create an account on [Twilio](https://www.twilio.com/referral/7LQNh3) and [get a trial number](https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account#get-your-first-twilio-phone-number)
 
 ### Code Snippets
 
