@@ -110,6 +110,6 @@ return items;
 
 `CREATE TABLE incident_data (incident_id TEXT, html_url TEXT, incident_timestamp TIMESTAMP);`
 
-> You can read more about it in the article: [Tracking Time Spent in Meetings With Google Calendar, Twilio, and n8n 🗓](https://medium.com/n8n-io/tracking-time-spent-in-meetings-with-google-calendar-twilio-and-n8n-a5d00f77da8c)
+> You can read more about it in the article: [Smart Factory Automation using IoT and Sensor Data with n8n 🏭](https://medium.com/n8n-io/smart-factory-automation-using-iot-and-sensor-data-with-n8n-27675de9943b)
 
 If you have any questions please ask them on our [community forum](https://community.n8n.io/).
