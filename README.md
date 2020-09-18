@@ -102,6 +102,10 @@ return items;
 
 ### CrateDB Commands
 
+### Start CrateDB locally
+
+`docker run -p 4200:4200 -p 5432:5432 crate -Cdiscovery.type=single-node`
+
 #### Create Machine Data Table
 
 `CREATE TABLE machine_data(machine_name STRING, machine_uptime INT, temperature_fahrenheit INT, temperature_celsius INT, time_stamp TIMESTAMP);`
